@@ -24,5 +24,9 @@
 
 <br />
 
+<img align="center" alt="Ritik Raj's github stats" src="https://github-readme-stats.vercel.app/api?username=coderraj8989&show_icons=true&hide_border=true"/>
+
+<br />
+
 ### 📫 How to reach me
 - Drop me a mail at coderraj@outlook.com !
