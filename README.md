@@ -30,4 +30,4 @@
 <br />
 
 ### 📫 How to reach me
-- Drop me a mail at coderraj@outlook.com !
+- Drop me a mail at ritikrajofficial@outlook.com !
