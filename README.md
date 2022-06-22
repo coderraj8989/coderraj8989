@@ -7,7 +7,7 @@
   Butler Technical University.
 - I am always ready to have new experiences, meet new people and learn new things.
 - 2022 Goals: Contribute more to Open Source projects and do some good projects.
-- Fun fact: I love playing basketball, piano.
+- Fun fact: Whenever I'm not working I spend my time playing piano.
 
 
 ### Languages and Tools:
