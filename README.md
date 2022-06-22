@@ -1,4 +1,4 @@
-### Hey,This is Ritik <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" height="25px" width="25px"> 
+### Hey,I'm Ritik Raj!<img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" height="20px" width="20px"> 
 
 
 ## Learing and exploring out stuff!!
