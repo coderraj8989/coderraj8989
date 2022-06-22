@@ -1,4 +1,4 @@
-### Hey,This is Ritik <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"> 
+### Hey,This is Ritik <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="10px"> 
 
 
 ## Learing and exploring out stuff!!
