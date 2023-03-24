@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,tailwind,react,redux,nodejs,express,aws,bash,eclipse,git,github,heroku,hibernate,idea,linux,maven,mongodb,postgres,netlify,postman,powershell,spring,vim,vite,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,tailwind,react,redux,nodejs,express,aws,bash,eclipse,git,github,heroku,hibernate,idea,linux,maven,mongodb,postgres,netlify,postman,powershell,spring,vim,vite,vscode&perline=10)](https://skillicons.dev)
 
 
 ### Github stats
