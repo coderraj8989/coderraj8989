@@ -3,10 +3,10 @@
 
 ## Learing and exploring out stuff!!
 
-- Currently I am a final year student persuing Computer Science and Engineering at Harcourt      
-  Butler Technical University.
+- Currently I am a working at Western Union as Trainee Associate, Solutions Engineering.
+- I am a Computer Science and Engineering graduate form Harcourt Butler Technical University.
 - I am always ready to have new experiences, meet new people and learn new things.
-- 2023 Goals: Contribute more to Open Source projects and do some good projects.
+- 2024 Goals: Contribute more to Open Source projects and do some good projects.
 - Fun fact: Whenever I'm not working I spend my time playing piano.
 <p><img src="https://komarev.com/ghpvc/?username=coderraj8989&color=red" /></p>
 
