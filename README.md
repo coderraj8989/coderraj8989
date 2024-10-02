@@ -3,7 +3,7 @@
 
 ## Learing and exploring out stuff!!
 
-- Currently I am a working at Western Union as Trainee Associate, Solutions Engineering.
+- Currently I am a working at Western Union as a Senior Trainee Associate, Solutions Engineering.
 - I am a Computer Science and Engineering graduate form Harcourt Butler Technical University.
 - I am always ready to have new experiences, meet new people and learn new things.
 - 2024 Goals: Contribute more to Open Source projects and do some good projects.
@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,tailwind,react,redux,nodejs,express,aws,bash,eclipse,git,github,heroku,hibernate,idea,linux,maven,mongodb,postgres,netlify,postman,powershell,spring,vim,vite,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,tailwind,react,redux,nodejs,express,aws,bash,eclipse,git,github,heroku,hibernate,idea,linux,maven,mongodb,postgres,netlify,postman,powershell,vim,vite,vscode&perline=10)](https://skillicons.dev)
 
 
 ### Github stats
